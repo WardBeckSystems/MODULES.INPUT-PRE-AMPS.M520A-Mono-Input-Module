@@ -1,0 +1,55 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M520A/MANUALS/1988 - M520A - file.pdf",
+ "page": 12,
+ "version": 1,
+ "trace": "_traces/c0fcea23ae436fb8-p12.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1415, 2000],
+  "mm": [305.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "12", "pages": "29"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.2, 0.0, 283.5, 424.0],
+ "outlines": {
+  "line": {"rings": 98, "straight": {"n": 1815, "mm": 4145.7}, "curved": {"n": 329, "mm": 488.3}},
+  "text": {"rings": 624, "straight": {"n": 4290, "mm": 4348.4}, "curved": {"n": 1458, "mm": 2028.2}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 91,
+  "lines": [
+   {"mm": [30.7, 410.6, 74.1, 416.4], "text": "WAFIO-EECK"},
+   {"mm": [81.6, 410.6, 135.8, 416.6], "text": "BYATEMA LTD."},
+   {"mm": [113.3, 377.2, 202.1, 382.7], "text": "OPERATIONAL DESCRIPTION"},
+   {"mm": [113.1, 364.7, 199.3, 370.4], "text": "M52()A MONO INPUT MODULiI"},
+   {"mm": [44.3, 347.2, 78.6, 352.4], "text": "l8) SENS"},
+   {"mm": [60.7, 333.1, 269.0, 339.9], "text": "Sensitivity control R25 allows the operator to coDtitruously change the M520A"},
+   {"mm": [60.7, 327.7, 162.4, 334.1], "text": "preaEplifier gain over 30 dB range."},
+   {"mm": [44.0, 315.6, 120.5, 321.4], "text": "19) AUXTLIARY MONO"},
+   {"mm": [60.5, 302.0, 268.6, 309.0], "text": "Auxiliary level controls Rl37 atrd Rl38 set the level of the audio signals fed"},
+   {"mm": [60.7, 296.6, 171.9, 302.6], "text": "to the mono auxiliary loixing buses aod"},
+   {"mm": [43.2, 284.8, 126.9, 290.5], "text": "20\\ AUXILIARY. STEREO"},
+   {"mm": [60.5, 271.0, 271.2, 278.0], "text": "Level controls Rl35 atrd R136 set the level of the audio signals fed to stereo"},
+   {"mm": [43.2, 254.1, 100.0, 259.8], "text": "2r) CHANNEL ON"},
+   {"mm": [59.8, 240.1, 267.9, 247.1], "text": "Mometrtary switch SW19 operates the elect.olically latching circuitry for the"},
+   {"mm": [60.0, 234.9, 144.9, 240.8], "text": "main chadnel solid state switch"},
+   {"mm": [145.5, 233.6, 180.1, 240.6], "text": "(e3 and e4)."}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 306 × 432 mm, 1415 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–284 mm across, 0–424 mm up",
+  "- **Outlines:** line 98 rings, 1,815 straight (4,146 mm) / 329 curved (488 mm); text 624 rings, 4,290 straight (4,348 mm) / 1,458 curved (2,028 mm)",
+  "- **Words (OCR):** 91 in 16 lines: WAFIO-EECK · BYATEMA LTD. · OPERATIONAL DESCRIPTION · M52()A MONO INPUT MODULiI · l8) SENS · Sensitivity control R25 allows the operator to coDtitruously change the M520A · preaEplifier gain over 30 dB range. · 19) AUXTLIARY MONO · Auxiliary level controls Rl37 atrd Rl38 set the level of the audio s"
+ ]
+}

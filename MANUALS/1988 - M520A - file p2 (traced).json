@@ -1,0 +1,61 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M520A/MANUALS/1988 - M520A - file.pdf",
+ "page": 2,
+ "version": 1,
+ "trace": "_traces/c0fcea23ae436fb8-p2.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1415, 2000],
+  "mm": [305.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "2", "pages": "29"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 0.0, 282.6, 424.0],
+ "outlines": {
+  "line": {"rings": 75, "straight": {"n": 1176, "mm": 3489.0}, "curved": {"n": 149, "mm": 246.5}},
+  "text": {"rings": 125, "straight": {"n": 1236, "mm": 1641.6}, "curved": {"n": 269, "mm": 406.9}},
+  "tb": {"rings": 20, "straight": {"n": 201, "mm": 224.2}, "curved": {"n": 41, "mm": 64.1}}
+ },
+ "circles": [
+  {"c": [175.5, 245.0], "r": 2.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [121.3, 244.8], "r": 2.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [133.0, 244.9], "r": 2.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [],
+ "text": {
+  "words": 18,
+  "lines": [
+   {"mm": [111.2, 404.4, 263.0, 412.5], "text": "WAFID-E}ECK SYSTEMS LTD."},
+   {"mm": [47.5, 396.2, 77.9, 408.2], "text": "\\NE="},
+   {"mm": [121.1, 399.6, 232.5, 403.9], "text": "PROGFi€SS AVENUE. SCAFTBOFOIJG|.I, Oi!'TAFIO"},
+   {"mm": [110.5, 399.8, 117.4, 403.7], "text": "641"},
+   {"mm": [237.9, 399.8, 257.6, 403.7], "text": "M1H 2XA"},
+   {"mm": [191.7, 394.4, 219.1, 398.3], "text": "TELEPHoNE:"},
+   {"mm": [224.1, 394.7, 253.3, 398.5], "text": "a16la3E-655O"},
+   {"mm": [143.4, 253.0, 173.2, 260.7], "text": "M52OA"},
+   {"mm": [216.1, 91.8, 262.1, 96.6], "text": "MANUAL ISSUE"},
+   {"mm": [223.5, 79.5, 266.0, 84.2], "text": "January 1988"}
+  ]
+ },
+ "title_block": {
+  "mm": [178.9, 83.2, 268.1, 420.7],
+  "from": "title-block words (training set)",
+  "text": ["WAFID-E}ECK SYSTEMS LTD.", "M1H 2XA", "TELEPHoNE:", "a16la3E-655O", "MANUAL ISSUE"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 306 × 432 mm, 1415 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–283 mm across, 0–424 mm up",
+  "- **Outlines:** line 75 rings, 1,176 straight (3,489 mm) / 149 curved (246 mm); text 125 rings, 1,236 straight (1,642 mm) / 269 curved (407 mm); tb 20 rings, 201 straight (224 mm) / 41 curved (64.1 mm)",
+  "- **Circles and arcs:** 3 circles, 0 arcs; largest r 2.9 @ (175.5, 245.0), r 2.9 @ (121.3, 244.8), r 2.8 @ (133.0, 244.9)",
+  "- **Words (OCR):** 18 in 10 lines: WAFID-E}ECK SYSTEMS LTD. · \\NE= · PROGFi€SS AVENUE. SCAFTBOFOIJG|.I, Oi!'TAFIO · 641 · M1H 2XA · TELEPHoNE: · a16la3E-655O · M52OA · MANUAL ISSUE · January 1988",
+  "- **Title block:** (179, 83)–(268, 421) mm: WAFID-E}ECK SYSTEMS LTD. · M1H 2XA · TELEPHoNE: · a16la3E-655O · MANUAL ISSUE"
+ ]
+}

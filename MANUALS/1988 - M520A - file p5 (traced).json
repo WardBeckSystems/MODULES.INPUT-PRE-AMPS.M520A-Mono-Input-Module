@@ -1,0 +1,46 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M520A/MANUALS/1988 - M520A - file.pdf",
+ "page": 5,
+ "version": 1,
+ "trace": "_traces/c0fcea23ae436fb8-p5.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1415, 2000],
+  "mm": [305.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "5", "pages": "29"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 0.0, 281.7, 417.6],
+ "outlines": {
+  "line": {"rings": 23, "straight": {"n": 674, "mm": 2548.8}, "curved": {"n": 43, "mm": 71.4}},
+  "text": {"rings": 46, "straight": {"n": 428, "mm": 549.0}, "curved": {"n": 115, "mm": 164.1}},
+  "tb": {"rings": 3, "straight": {"n": 41, "mm": 56.8}, "curved": {"n": 11, "mm": 16.4}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 6,
+  "lines": [
+   {"mm": [29.1, 411.9, 69.5, 417.2], "text": "\\A/AFD-BECK"},
+   {"mm": [80.1, 411.9, 133.2, 417.4], "text": "SYSTEMS LTO."},
+   {"mm": [139.9, 247.4, 166.5, 252.7], "text": "SECTION"},
+   {"mm": [136.4, 234.9, 175.1, 240.4], "text": "MAIN FRAME"}
+  ]
+ },
+ "title_block": {"mm": [23.0, 403.3, 116.1, 426.0], "from": "title-block words (training set)", "text": ["\\A/AFD-BECK", "SYSTEMS LTO."]},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 306 × 432 mm, 1415 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–282 mm across, 0–418 mm up",
+  "- **Outlines:** line 23 rings, 674 straight (2,549 mm) / 43 curved (71.4 mm); text 46 rings, 428 straight (549 mm) / 115 curved (164 mm); tb 3 rings, 41 straight (56.8 mm) / 11 curved (16.4 mm)",
+  "- **Words (OCR):** 6 in 4 lines: \\A/AFD-BECK · SYSTEMS LTO. · SECTION · MAIN FRAME",
+  "- **Title block:** (23, 403)–(116, 426) mm: \\A/AFD-BECK · SYSTEMS LTO."
+ ]
+}

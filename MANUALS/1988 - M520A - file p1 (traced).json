@@ -1,0 +1,53 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M520A/MANUALS/1988 - M520A - file.pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/c0fcea23ae436fb8-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1415, 2000],
+  "mm": [305.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "29"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 0.0, 278.7, 432.0],
+ "outlines": {
+  "line": {"rings": 67, "straight": {"n": 2023, "mm": 7293.2}, "curved": {"n": 111, "mm": 247.8}},
+  "text": {"rings": 103, "straight": {"n": 925, "mm": 2827.1}, "curved": {"n": 90, "mm": 187.9}}
+ },
+ "circles": [],
+ "boxes": [
+  {"mm": [220.6, 77.1, 236.8, 79.9], "w": 16.2, "h": 2.8, "from": "ring"},
+  {"mm": [220.6, 71.0, 237.1, 74.1], "w": 16.4, "h": 3.0, "from": "ring"}
+ ],
+ "text": {
+  "words": 10,
+  "lines": [
+   {"mm": [181.1, 399.8, 241.4, 420.2], "text": "\\NEI5"},
+   {"mm": [181.1, 362.7, 241.4, 383.1], "text": "\\NEI5"},
+   {"mm": [181.4, 325.4, 242.0, 345.8], "text": "\\NEI="},
+   {"mm": [181.6, 287.8, 241.6, 308.2], "text": "\\NEI5"},
+   {"mm": [181.6, 250.4, 242.2, 270.8], "text": "\\NEI="},
+   {"mm": [181.8, 212.9, 236.0, 233.3], "text": "\\NE5"},
+   {"mm": [181.6, 175.3, 242.9, 196.2], "text": "\\NEI5"},
+   {"mm": [181.8, 138.0, 241.8, 158.4], "text": "\\NEI5"},
+   {"mm": [181.8, 63.5, 236.0, 83.9], "text": "\\NB5"},
+   {"mm": [181.6, 26.6, 249.6, 48.9], "text": "\\n/EI5"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 306 × 432 mm, 1415 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–279 mm across, 0–432 mm up",
+  "- **Outlines:** line 67 rings, 2,023 straight (7,293 mm) / 111 curved (248 mm); text 103 rings, 925 straight (2,827 mm) / 90 curved (188 mm)",
+  "- **Closed boxes:** 2",
+  "- **Words (OCR):** 10 in 10 lines: \\NEI5 · \\NEI5 · \\NEI= · \\NEI5 · \\NEI= · \\NE5 · \\NEI5 · \\NEI5 · \\NB5 · \\n/EI5"
+ ]
+}

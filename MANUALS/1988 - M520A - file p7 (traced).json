@@ -1,0 +1,63 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M520A/MANUALS/1988 - M520A - file.pdf",
+ "page": 7,
+ "version": 1,
+ "trace": "_traces/c0fcea23ae436fb8-p7.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1415, 2000],
+  "mm": [305.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "7", "pages": "29"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.2, 0.0, 283.9, 431.8],
+ "outlines": {
+  "line": {"rings": 41, "straight": {"n": 1081, "mm": 3083.8}, "curved": {"n": 172, "mm": 259.8}},
+  "text": {"rings": 332, "straight": {"n": 2179, "mm": 2279.6}, "curved": {"n": 690, "mm": 1012.9}},
+  "tb": {"rings": 4, "straight": {"n": 39, "mm": 54.9}, "curved": {"n": 15, "mm": 23.7}}
+ },
+ "circles": [],
+ "boxes": [{"mm": [131.7, 308.1, 136.0, 310.9], "w": 4.3, "h": 2.8, "from": "ring"}],
+ "text": {
+  "words": 41,
+  "lines": [
+   {"mm": [33.2, 410.0, 69.7, 415.3], "text": "/AFIO-BECK"},
+   {"mm": [79.0, 410.2, 109.0, 415.5], "text": "SYSTEMS"},
+   {"mm": [118.5, 410.4, 132.6, 415.7], "text": "LTO."},
+   {"mm": [128.7, 374.8, 162.6, 380.1], "text": "TECHNICAL"},
+   {"mm": [165.8, 375.0, 181.6, 380.3], "text": "DATA"},
+   {"mm": [112.1, 362.5, 131.7, 367.8], "text": "M52()A"},
+   {"mm": [132.1, 362.7, 198.8, 368.0], "text": "MONO INPUT MODULE"},
+   {"mm": [43.0, 343.7, 60.0, 349.0], "text": "Power"},
+   {"mm": [61.1, 343.9, 103.2, 349.2], "text": "Requiremetrts:."},
+   {"mm": [117.0, 343.9, 248.3, 349.2], "text": "+/-25 volts dc,65 mA nomiaal,90 mA maximum."},
+   {"mm": [117.0, 337.5, 149.2, 342.9], "text": "+l2V dc, 50"},
+   {"mm": [150.5, 337.7, 161.1, 342.9], "text": "mA."},
+   {"mm": [43.0, 325.1, 104.5, 330.4], "text": "Ambieot Temperature:"},
+   {"mm": [122.4, 325.1, 180.7, 330.4], "text": "to 60 degrees Celsius."},
+   {"mm": [43.0, 312.8, 77.7, 318.1], "text": "Dimensiors:"},
+   {"mm": [117.7, 312.8, 132.6, 318.1], "text": "1.60\""},
+   {"mm": [131.5, 312.8, 216.3, 318.3], "text": "wide 14.t5\" high 6-50\" deep"},
+   {"mm": [43.0, 293.8, 63.7, 299.1], "text": "Weight;"},
+   {"mm": [122.4, 293.8, 143.1, 299.5], "text": "lbs oz"},
+   {"mm": [144.7, 294.3, 180.7, 300.0], "text": "(1,02 kg) Det."}
+  ]
+ },
+ "title_block": {"mm": [27.2, 401.3, 115.1, 424.0], "from": "title-block words (training set)", "text": ["/AFIO-BECK", "SYSTEMS"]},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 306 × 432 mm, 1415 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–284 mm across, 0–432 mm up",
+  "- **Outlines:** line 41 rings, 1,081 straight (3,084 mm) / 172 curved (260 mm); text 332 rings, 2,179 straight (2,280 mm) / 690 curved (1,013 mm); tb 4 rings, 39 straight (54.9 mm) / 15 curved (23.7 mm)",
+  "- **Closed boxes:** 1",
+  "- **Words (OCR):** 41 in 20 lines: /AFIO-BECK · SYSTEMS · LTO. · TECHNICAL · DATA · M52()A · MONO INPUT MODULE · Power · Requiremetrts:. · +/-25 volts dc,65 mA nomiaal,90 mA maximum. · +l2V dc, 50 · mA.",
+  "- **Title block:** (27, 401)–(115, 424) mm: /AFIO-BECK · SYSTEMS"
+ ]
+}
