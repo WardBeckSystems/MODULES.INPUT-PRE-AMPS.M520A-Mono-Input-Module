@@ -1,0 +1,201 @@
+{
+ "module": "M520A",
+ "title": "M52A MONQ_ INPUT MODULE",
+ "source": {
+  "file": "MANUALS/1988 - M520A - M520A_Page_06.jpg",
+  "page": 1
+ },
+ "ocr_quality": 1.0,
+ "read": "OCR of the technical data sheet; usual OCR slips put right, the rest as read: check against the page",
+ "specifications": [
+  {
+   "name": "Input sensitivities",
+   "key": "input_sensitivity",
+   "text": "Line: Mic Pad: Mic: -15 to +15 dBm (ref. 600 ohm source) -40 to -10 dBm (ref. 150 ohm source). -60 to -30 dBm (ref. 150 ohm source)",
+   "quantities": [
+    {
+     "from": -15,
+     "to": 15,
+     "unit": "dBm"
+    },
+    {
+     "value": 600,
+     "unit": "ohm"
+    },
+    {
+     "from": -40,
+     "to": -10,
+     "unit": "dBm"
+    },
+    {
+     "value": 150,
+     "unit": "ohm"
+    },
+    {
+     "from": -60,
+     "to": -30,
+     "unit": "dBm"
+    },
+    {
+     "value": 150,
+     "unit": "ohm"
+    }
+   ]
+  },
+  {
+   "name": "Frequency response",
+   "key": "frequency_response",
+   "text": "+/-0.25 dB from 30 Hz to 20 kHz",
+   "quantities": [
+    {
+     "value": 0.25,
+     "unit": "dB",
+     "tolerance": true
+    },
+    {
+     "value": 30,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Noise",
+   "key": "noise",
+   "text": "",
+   "items": [
+    {
+     "name": "Line",
+     "text": "Greater than 65 to 85 dB signal to noise ratio for input sensitivities of -15 to +15 dB_ -125 dBm EIN at maximum sensitivity (measured over a 20 Hz to 20 kHz bandwidth)",
+     "quantities": [
+      {
+       "from": 65,
+       "to": 85,
+       "unit": "dB"
+      },
+      {
+       "from": -15,
+       "to": 15,
+       "unit": "dB"
+      },
+      {
+       "value": -125,
+       "unit": "dBm"
+      },
+      {
+       "value": 20,
+       "unit": "Hz"
+      },
+      {
+       "value": 20,
+       "unit": "kHz"
+      }
+     ],
+     "key": "line"
+    }
+   ]
+  },
+  {
+   "name": "Harmonic distortion",
+   "key": "harmonic_distortion",
+   "text": "Less than 0.250 from 30 Hz to 20 kHz at +24 dBm output levels or less. Less than 0.10 at kHz at +24 dBm output:",
+   "quantities": [
+    {
+     "value": 30,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    },
+    {
+     "value": 24,
+     "unit": "dBm"
+    },
+    {
+     "value": 24,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Source impedances",
+   "key": "source_impedance",
+   "text": "Line: Mic: 150/600 ohms, balanced/unbalanced. 150 ohms, balanced unbalanced.",
+   "quantities": [
+    {
+     "value": 600,
+     "unit": "ohms"
+    },
+    {
+     "value": 150,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Input impedances",
+   "key": "input_impedance",
+   "text": "Line: Mic: 20,000 ohms: 750 ohms minimum",
+   "quantities": [
+    {
+     "value": 20000,
+     "unit": "ohms"
+    },
+    {
+     "value": 750,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Output impedances",
+   "key": "output_impedance",
+   "text": "Less than 100 ohms at insert and direct outputs",
+   "quantities": [
+    {
+     "value": 100,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Load impedances",
+   "key": "load_impedance",
+   "text": "600 ohms; balanced (at insertion point) 5000 ohms, balanced (at direct output).",
+   "quantities": [
+    {
+     "value": 600,
+     "unit": "ohms"
+    },
+    {
+     "value": 5000,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Output levels",
+   "key": "output_level",
+   "text": "0 dBm nominal, +26 dBm maximum",
+   "quantities": [
+    {
+     "value": 0,
+     "unit": "dBm"
+    },
+    {
+     "value": 26,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Phasing",
+   "key": "phasing",
+   "text": "Low number, or numbered terminals of the input pair is in phase with the similar terminals of the output pair."
+  }
+ ]
+}

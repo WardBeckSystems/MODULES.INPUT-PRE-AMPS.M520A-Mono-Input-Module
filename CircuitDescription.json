@@ -1,0 +1,19 @@
+{
+ "module": "M520A",
+ "source": {
+  "file": "MANUALS/1988 - M520A - M520A_Page_13.jpg",
+  "pages": [
+   1
+  ]
+ },
+ "ocr_quality": 0.93,
+ "read": "OCR of the manual's circuit description; check against the pages",
+ "sections": [
+  {
+   "heading": null,
+   "paragraphs": [
+    "Inputs Two microphone and two line inputs are provided. The A/B Input Selector SWI selects either the or the B source for the microphone Or for the line. SW3 is the switch which determines whether the MIC Or the Line source will be utilized_ Bother SWI and SW3 have sense contacts which feed the status of these switches into the control system for the purpose of mute and machine control functions. 48 volt phantom power maybe simplexed onto the microphone lines through R10 and RI. The pushbutton select switch is part of the SA14-081 Preamplifier Subassembly. 20 dB loss pad maybe switched into the microphone path by SW2. All inputs feed through the input transformer TI. The secondary of Tl is coupled to the preamplifier circuitry, Which is an integral part Of the SA14-081 Subassembly. Preamplifier The SA14-081 Preamplifier Subassembly contains the circuitry for the low noise preamplifier and the selectable High Pass filter_ The Phantom Power selector switch is also part of the SAl4-081 Subassembly. The fed LED indicator DS] illuminates when the phantom power is selected_ The Sensitivity control R25 which is located on the front panel of the M520 Input Module allows for continuous gain adjustment of the preamplifier over 30 dB range Microphone input levels from -60 dBm to -10 dBm and line input levels from -15 dBm to +15 dBm maybe accommodated for constant output from the M520 Input Module The output from the SAI4-081 Preamplifier Subassembly appears at the equalizer insert point on the module connector Pl pins 37 and 38. This point is designed for the M522 Equalizer Module which maybe optionally located above and inline with the Input Module ina console system: Program ChanneL Switch FET s Q3 and Q4 along with U3 form solid state switch which controls the passage of the audio signal to the remainder of the Input Module. U3 and U4 with their associated components serve as an actively balanced buffer amplifier which feeds the Phase Switch SW4 and then to the balanced insert point appearing at the module connector P2 pins and A The control for the solid state channel switch is derived from the SA14-077 Logic Control Subassembly."
+   ]
+  }
+ ]
+}

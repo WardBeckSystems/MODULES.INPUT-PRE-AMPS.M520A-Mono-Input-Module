@@ -13,6 +13,40 @@ Ward-Beck Systems M520A, 1988|21. Wiki page: [M520A on WBSps.ca](https://wardbec
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 1 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 111 |
 
+<!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
+
+**On the WBSps forum (2006|39 - 2014|47):** [1 topic](FORUM.md): what owners and technicians said about it.
+
+## Specifications
+
+From the technical data sheet: [1988 - M520A - M520A_Page_06.jpg](MANUALS/1988%20-%20M520A%20-%20M520A_Page_06.jpg) page 1 (read by OCR; check against the page). As data: [`Specifications.json`](Specifications.json).
+
+| | |
+|---|---|
+| **Input sensitivities** | Line: Mic Pad: Mic: -15 to +15 dBm (ref. 600 ohm source) -40 to -10 dBm (ref. 150 ohm source). -60 to -30 dBm (ref. 150 ohm source) |
+| **Frequency response** | +/-0.25 dB from 30 Hz to 20 kHz |
+| **Noise** |  |
+| &nbsp;&nbsp;Line | Greater than 65 to 85 dB signal to noise ratio for input sensitivities of -15 to +15 dB_ -125 dBm EIN at maximum sensitivity (measured over a 20 Hz to 20 kHz bandwidth) |
+| **Harmonic distortion** | Less than 0.250 from 30 Hz to 20 kHz at +24 dBm output levels or less. Less than 0.10 at kHz at +24 dBm output: |
+| **Source impedances** | Line: Mic: 150/600 ohms, balanced/unbalanced. 150 ohms, balanced unbalanced. |
+| **Input impedances** | Line: Mic: 20,000 ohms: 750 ohms minimum |
+| **Output impedances** | Less than 100 ohms at insert and direct outputs |
+| **Load impedances** | 600 ohms; balanced (at insertion point) 5000 ohms, balanced (at direct output). |
+| **Output levels** | 0 dBm nominal, +26 dBm maximum |
+| **Phasing** | Low number, or numbered terminals of the input pair is in phase with the similar terminals of the output pair. |
+
+## Circuit description
+
+From [1988 - M520A - M520A_Page_13.jpg](MANUALS/1988%20-%20M520A%20-%20M520A_Page_13.jpg) page 1 (read by OCR; check against the pages). As data: [`CircuitDescription.json`](CircuitDescription.json).
+
+<details><summary>Read it</summary>
+
+Inputs Two microphone and two line inputs are provided. The A/B Input Selector SWI selects either the or the B source for the microphone Or for the line. SW3 is the switch which determines whether the MIC Or the Line source will be utilized_ Bother SWI and SW3 have sense contacts which feed the status of these switches into the control system for the purpose of mute and machine control functions. 48 volt phantom power maybe simplexed onto the microphone lines through R10 and RI. The pushbutton select switch is part of the SA14-081 Preamplifier Subassembly. 20 dB loss pad maybe switched into the microphone path by SW2. All inputs feed through the input transformer TI. The secondary of Tl is coupled to the preamplifier circuitry, Which is an integral part Of the SA14-081 Subassembly. Preamplifier The SA14-081 Preamplifier Subassembly contains the circuitry for the low noise preamplifier and the selectable High Pass filter_ The Phantom Power selector switch is also part of the SAl4-081 Subassembly. The fed LED indicator DS] illuminates when the phantom power is selected_ The Sensitivity control R25 which is located on the front panel of the M520 Input Module allows for continuous gain adjustment of the preamplifier over 30 dB range Microphone input levels from -60 dBm to -10 dBm and line input levels from -15 dBm to +15 dBm maybe accommodated for constant output from the M520 Input Module The output from the SAI4-081 Preamplifier Subassembly appears at the equalizer insert point on the module connector Pl pins 37 and 38. This point is designed for the M522 Equalizer Module which maybe optionally located above and inline with the Input Module ina console system: Program ChanneL Switch FET s Q3 and Q4 along with U3 form solid state switch which controls the passage of the audio signal to the remainder of the Input Module. U3 and U4 with their associated components serve as an actively balanced buffer amplifier which feeds the Phase Switch SW4 and then to the balanced insert point appearing at the module connector P2 pins and A The control for the solid state channel switch is derived from the SA14-077 Logic Control Subassembly.
+
+</details>
+
+<!-- /module data -->
+
 ## Photos
 
 _Photographs of the module itself: front, back, inside, racked._
