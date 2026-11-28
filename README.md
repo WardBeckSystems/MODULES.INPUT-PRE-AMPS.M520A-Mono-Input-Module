@@ -1,6 +1,6 @@
 # M520A Mono Input Module · Input Pre Amps
 
-Ward-Beck Systems M520A, 1988|21. Wiki page: [M520A on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M520A.html)
+Ward-Beck Systems M520A, 1988|21. Wiki page: [M520A on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.INPUT-PRE-AMPS.M520A-Mono-Input-Module/)
 
 | Folder | What is in it | Files |
 |---|---|---|
